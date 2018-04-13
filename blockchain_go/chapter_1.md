@@ -114,6 +114,17 @@ Hash: 561237522bb7fcfbccbc6fe0e98bbbde7427ffe01c6fb223f7562288ca2295d1
 ```
 $ cd code
 $ go run *.go
+Prev. hash:
+Data: Genesis Block
+Hash: 47656e6573697320426c6f636b
+
+Prev. hash: ed04915490f219659b36ea39b9ce0670c8a2fffb90aad9fd315a011d208c0388
+Data: Send 1 BTC to Ivan
+Hash: 53656e6420312042544320746f204976616e
+
+Prev. hash: f6ffe58f57aea297e2c364f58474bd1f79673d1f731e776aa05193835b7793ea
+Data: Send 2 more BTC to Ivan
+Hash: 53656e642032206d6f72652042544320746f204976616e
 ```
 
 ## 参考
