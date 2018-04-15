@@ -247,6 +247,7 @@ PoW: true
 我们的区块链更接近其实际架构：现在添加区块需要努力工作，因此可以进行挖掘。 但它仍然缺乏一些关键特征：区块链数据库不是持久的，没有钱包，地址，交易，并且没有共识机制。 所有这些我们将在未来的文章中实现，而现在，快乐的挖掘！
 
 ## 参考
-1. [Blockchain hashing algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
-2. [Proof of work](https://en.bitcoin.it/wiki/Proof_of_work)
-3. [Hashcash](https://en.bitcoin.it/wiki/Hashcash)
+1. [Building Blockchain in Go. Part 2: Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
+2. [Blockchain hashing algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
+3. [Proof of work](https://en.bitcoin.it/wiki/Proof_of_work)
+4. [Hashcash](https://en.bitcoin.it/wiki/Hashcash)
